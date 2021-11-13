@@ -1,5 +1,5 @@
 # QCOM_Dump_Analysis
-dedex qcom memory dump
+decode qcom memory dump
 
 ## Environment
 
